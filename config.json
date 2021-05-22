@@ -1,0 +1,27 @@
+
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri":"mysql://root:@localhost/codingthunder",
+        "prod_uri":"mysql://root:@localhost/codingthunder",
+        "fb_url":"https://www.facebook.com/codingthunder",
+        "tw_url": "https://www.twitter.com/codingthunder",
+        "gh_url": "https://www.github.com/codingthunder",
+        "blog_name": "Coding Thunder",
+        "tag_line": "A Blog liked by programmers",
+        "gmail-user":"yadavukartika@gmail.com",
+        "gmail-password": "Ukartika@123",
+        "about_text":"Success is not final; failure is not fatal: it is the courage to continue that counts.",
+        "no_of_posts": 12,
+        "login_image": "images.png",
+        "admin_user": "usha",
+        "admin_password":"admin",
+        "upload_location":"C://Users//Shivansh//Documents//FLASK CLASSESS//20-Message_Flashing_and_other-Python_Flask_Resources//static//uploads"
+        
+
+    }
+
+
+
+}
